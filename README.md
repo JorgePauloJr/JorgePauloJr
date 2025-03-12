@@ -1,6 +1,8 @@
 # Olá, me chamo Jorge Paulo ! 
 ## Bem vindo ao meu perfil GitHub 👋
 
+![Snake animation](https://github.com//JorgePauloJr/JorgePauloJr/blob/output/github-contribution-grid-snake.svg)
+
 ### 🤖 Linguagens e Tecnologias
 
 <img 
@@ -89,5 +91,3 @@
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=JorgePauloJr&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
-
-![Snake animation](https://github.com//JorgePauloJr/JorgePauloJr/blob/output/github-contribution-grid-snake.svg)
